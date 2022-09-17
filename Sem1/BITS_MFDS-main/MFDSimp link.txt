@@ -1,0 +1,163 @@
+https://github.com/DSRohitSrivastava/BITS_MFDS_EndSem
+
+https://github.com/sumilk/BITS_MFDS
+
+		--->Lagrange Multiplier 
+		--->Hessian_maxima_minima
+                ---->Steepest Descent
+                ---->VALID_SYSTEM_TYPES = [
+    'gauss_elimination',
+    'gauss_elimination_rounding',
+    'condition_number',
+    'linear_independence_checker',
+    'basis_finder',
+    'gauss_seidel',
+    'gauss_jacobi',
+    'power_method',
+    'rayleigh_quotient',
+    'diagonalization',
+    'gram_schmidt_orthonormalization',
+    'qr_factorization',
+    'lu_dolittle',
+    'lu_crout',
+    'svd'
+]
+
+http://atozmath.com/Menu/MatrixAlgebra.aspx
+
+https://www.symbolab.com/
+
+https://www.cymath.com/
+
+https://www.derivative-calculator.net/
+
+https://www.integral-calculator.com/
+
+
+https://www.emathhelp.net/calculators/linear-algebra/svd-calculator/
+
+https://cbom.atozmath.com/CBOM/Simplex.aspx?q=sm&q1=3%603%60MAX%60Z%60x1%2Cx2%2Cx3%603%2C5%2C4%602%2C3%2C0%3B0%2C2%2C5%3B3%2C2%2C4%60%3C%3D%2C%3C%3D%2C%3C%3D%608%2C10%2C15%60%60D%60false%60true%60false%60true%60false%60false%60true&do=1#tblSolution
+--> LLP solving using basic method
+
+
+https://atozmath.com/MatrixEv.aspx?q=lqdecomp&q1=8%2C-6%2C2%3B-6%2C7%2C-4%3B2%2C-4%2C3%60lqdecomp%60&dm=D&dp=8&do=0   // all linear algebra method,
+****************************************
+1.1 Matrix operations
+1. Addition/Subtraction of two matrix
+2. Multiplication of two matrix
+3. Division of two matrix
+4. Power of a matrix
+5. Transpose of a matrix
+6. Determinant of a matrix
+7. Adjoint of a matrix
+8. Inverse of a matrix
+9. Prove that any two matrix expression is equal or not
+10. Minor of a matrix
+11. Cofactor of a matrix
+12. Trace of a matrix
+
+
+1.2 Matrix operations
+1. Transforming matrix to Row Echelon Form
+2. Transforming matrix to Reduced Row Echelon Form
+3. Rank of matrix
+4. Characteristic polynomial
+5. Eigenvalues
+6. Eigenvectors
+7. Triangular Matrix
+8. LU Decomposition using Gauss Elimination method
+9. LU decomposition using Doolittle's method
+10. LU decomposition using Crout's method
+11. Diagonal Matrix
+12. Cholesky Decomposition
+13. QR Decomposition (Gram Schmidt Method)
+14. QR Decomposition (Householder Method)
+15. LQ Decomposition
+16. Pivots of a Matrix
+17. SVD - Singular Value Decomposition
+18. Moore-Penrose Pseudoinverse of a Matrix
+19. Power Method for dominant eigenvalue
+20. Determinants using Sarrus Rule
+21. Determinants using properties of determinants
+22. Row Space
+23. Column Space
+24. Null Space
+
+
+1.3 Matrix Structure
+
+0. Auto Detect the matrix type
+1. is Row Matrix
+2. is Column Matrix
+3. is Square Matrix
+4. is Horizontal Matrix
+5. is Vertical Matrix
+6. is Diagonal Matrix
+7. is Identity Matrix
+8. is Scalar Matrix
+9. is Null Matrix
+10. is Lower Triangle Matrix
+11. is Upper Triangle Matrix
+12. is Orthogonal Matrix
+13. is Singular Matrix
+14. is Nonsingular Matrix
+15. is Symmetric Matrix
+16. is Skew Symmetric Matrix
+17. is Nilpotent Matrix
+18. is Involutary Matrix
+19. is Idempotent Matrix
+20. is Periodic Matrix
+21. is Positive Definite Matrix
+22. is Negative Definite Matrix
+23. is Derogatory Matrix
+24. is Diagonally Dominant Matrix
+25. is Strictly Diagonally Dominant Matrix
+
+
+2. Find inverse of a matrix using
+
+1. Adjoint method
+2. Gauss-Jordan Elimination method
+3. Cayley Hamilton method method
+3. Solve linear equation of any number of variables using
+1. Inverse Matrix method
+2. Cramer's Rule method
+3. Gauss-Jordan Elimination method
+4. Gauss Elimination Back Substitution method
+5. Gauss Seidel method
+6. Gauss Jacobi method
+7. Elimination method
+8. LU decomposition using Gauss Elimination method
+9. LU decomposition using Doolittle's method
+10. LU decomposition using Crout's method
+11. Cholesky decomposition method
+12. SOR (Successive over-relaxation) method
+13. Relaxation method
+
+
+
+4. Vector Algebra
+
+1. Addition/Subtraction of two vectors
+2. Scalar Multiplication of vectors
+3. Dot Product of two vectors
+4. Cross Product of two vectors
+5. Magnitude(length) of a vector
+6. Unit vector
+7. Direction cosines of a vector
+8. Component form of a vector given two points
+9. Angle between two vectors
+10. Vector projections of B onto A
+11. Orthogonal vectors
+12. Collinear vectors
+13. Coplanar vectors
+14. Scalar triple product
+15. Vector triple product
+16. Area of triangle determined by two vectors
+17. Area of parallelogram determined by two vectors
+18. Volume of pyramid determined by vectors
+19. Volume of Parallelepiped determined by vectors
+20. Decomposition of vector in basis
+21. Linearly dependent and linearly independent vectors
+
+********************************************************
