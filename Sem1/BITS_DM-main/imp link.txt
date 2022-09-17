@@ -1,0 +1,43 @@
+https://docs.google.com/spreadsheets/d/1VXJH1t68Y2rN6zXifU8uleXbRppSBvkP/edit#gid=648220056    // TF IDF excel sheet and cosine
+
+https://scistatcalc.blogspot.com/2015/11/cosine-similarity-calculator.html#  // online cosine tool
+
+https://people.revoledu.com/kardi/tutorial/Clustering/Online-Hierarchical-Clustering.html
+
+https://athena.ecs.csus.edu/~mei/associationcw/Algorithms/FpGrowth.html   // FP growth
+
+https://athena.ecs.csus.edu/~mei/associationcw/Algorithms/Apriori.html     //Apriori algorithm
+
+http://www.wessa.net/rwasp_hierarchicalclustering.wasp
+
+https://www.kaggle.com/general/183478  LOF 
+
+https://computerscience.chemeketa.edu/cs160Reader/_static/pageRankApp/index.html    //PageRank Simulator
+
+https://athena.ecs.csus.edu/~mei/associationcw/Algorithms/Apriori.html    
+
+https://docs.google.com/spreadsheets/d/1N6Yd4qgJHM8mIqgykvC8XngygZg-peuf/edit#gid=206026454  //LoF
+
+
+https://mathcracker.com/linear-regression#results   // useful for linear regression problem
+
+
+https://github.com/sumilk/BITS_DM    //-IQR and Five point summary
+
+                                       Confusion Matrix
+
+                                      Chi Square Test
+
+                                      Creating contingency table/crosstab
+
+                                         Distance calculation
+
+                                     Min Max scaling
+
+                                    Foil gain and Likelyhood ratio
+
+                                 Gini Index
+
+                               Entropy, Informaton Gain and Gain ratio
+
+                               K_means Clustering
